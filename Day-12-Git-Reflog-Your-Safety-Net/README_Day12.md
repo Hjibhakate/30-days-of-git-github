@@ -1,8 +1,6 @@
 # 🚀 Day 12 — Git Reflog: Your Safety Net
 
-<p align="center">
-  <img src="./day12-git-reflog.png" width="900" alt="Day 12 Git Reflog Infographic">
-</p>
+
 
 <p align="center">
   <img src="./Image_Day12.png" alt="Day 12 - Git Reflog: Your Safety Net" width="100%">

@@ -1,6 +1,6 @@
 # Day 22 — Pull Requests That Get Approved
 
-![Day 17 - Git Bisect](./Image_Day22.png)
+![Day 22 - Git Bisect](./Image_Day22.png)
 
 > **A good Pull Request (PR) is not just about code — it's about communication, clarity, and context.**
 

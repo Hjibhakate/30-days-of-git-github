@@ -1,5 +1,5 @@
 # Day 23 – Code Review Psychology
-![Day 17 - Git Bisect](./Image_Day23.png)
+![Day 23 - Git Bisect](./Image_Day23.png)
 
 > **Goal:** Learn how experienced engineers think during code reviews. A great review is not about proving someone wrong—it is about improving the codebase together.
 

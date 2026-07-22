@@ -1,6 +1,6 @@
 # Day 21: Forking vs Cloning
 
-![Day 17 - Git Bisect](./Image_Day21.png)
+![Day 21 - Git Bisect](./Image_Day21.png)
 
 ## 🚀 What You'll Learn
 Many developers use **Fork** and **Clone** interchangeably, but they solve **completely different problems**.

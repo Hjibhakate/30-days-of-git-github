@@ -1,6 +1,6 @@
 # 🚀 Day 20 – Large Files & Git LFS
 
-![Day 17 - Git Bisect](./Image_Day20.png)
+![Day 20 - Git Bisect](./Image_Day20.png)
 
 > **Track Smart. Store Large. Keep Git Fast.**
 

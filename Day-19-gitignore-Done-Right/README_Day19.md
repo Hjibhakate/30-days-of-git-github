@@ -1,6 +1,6 @@
 # Day 19 — `.gitignore` Done Right
 
-![Day 17 - Git Bisect](./Image_Day19.png)
+![Day 19 - Git Bisect](./Image_Day19.png)
 
 > **Ignore Smart. Commit Clean.**
 

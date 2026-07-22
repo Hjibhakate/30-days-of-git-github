@@ -1,6 +1,6 @@
 # 🚀 Day 18 – Git Hooks
 
-![Day 17 - Git Bisect](./Image_Day18.png)
+![Day 18 - Git Bisect](./Image_Day18.png)
 > **Automate repetitive work. Prevent mistakes before they happen.**
 
 Git Hooks are small scripts that Git automatically runs whenever a specific event occurs (like committing, merging, or pushing code). They help automate tasks, enforce coding standards, and improve code quality.
